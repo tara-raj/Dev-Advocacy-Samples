@@ -13,7 +13,7 @@ Lastly we also included a workspace recommendation that enables you to install t
 
 ## Prerequisites
 ### Windows
-You can install the tools you'll need for this tutorial with one click by using the [Node.js tutorial setup script](http://boxstarter.org/package/url?https://raw.githubusercontent.com/Microsoft/Dev-Advocacy-Samples/master/nodejs_tutorial_setup.ps1) based on the [Windows Dev Box Setup Scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts) project. 
+You can install the tools you'll need for this tutorial with one click by using the [Node.js tutorial setup script](http://boxstarter.org/package/url?https://raw.githubusercontent.com/Microsoft/Dev-Advocacy-Samples/master/nodejs_tutorial_setup.ps1) based on the [Windows Dev Box Setup Scripts](https://github.com/Microsoft/windows-dev-box-setup-scripts) project. Note: If you are running an older version of Windows, directly install [Chocolatey](https://chocolatey.org/docs/installation) to get your tools.
 
 After you run the script, restart your Ubuntu 18.04 app and install node by running the following:
 ```script
